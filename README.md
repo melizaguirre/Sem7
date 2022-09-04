@@ -67,9 +67,7 @@ Un programa de C++ diseñado para demostrar:
 
 <img width="400" alt="code6" src="https://user-images.githubusercontent.com/92064578/188336063-7de09773-509d-463a-8eba-9029a4fbd69d.png">
 
-<img width="400" alt="salida6" src="https://user-images.githubusercontent.com/92064578/188336084-0e97245a-36e6-4e18-9811-b2ffe3940396.png">
-
-<img width="400" alt="code6" src="https://user-images.githubusercontent.com/92064578/188336063-7de09773-509d-463a-8eba-9029a4fbd69d.png">
+<img width="400" alt="salida6" src="https://user-images.githubusercontent.com/92064578/188336123-f69904ba-ddf9-4ffd-8df8-b441233fc97d.png">
 
 
 
