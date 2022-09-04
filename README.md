@@ -69,6 +69,19 @@ Un programa de C++ diseñado para demostrar:
 
 <img width="400" alt="salida6" src="https://user-images.githubusercontent.com/92064578/188336123-f69904ba-ddf9-4ffd-8df8-b441233fc97d.png">
 
+## cout-width.cpp
+
+<img width="400" alt="salida6" src="https://user-images.githubusercontent.com/92064578/188336294-8f0d6cca-049d-4a91-892b-2ed566f8048a.png">
+
+<img width="400" alt="salida7" src="https://user-images.githubusercontent.com/92064578/188336301-53f260bc-5c68-429a-9af8-84272a93aa49.png">
+
+
+## cout-setw.cpp
+
+<img width="400" alt="code8" src="https://user-images.githubusercontent.com/92064578/188336318-e7fa79d2-6a0d-4782-927f-3938d646674c.png">
+
+
+<img width="400" alt="salida8" src="https://user-images.githubusercontent.com/92064578/188336315-65ab5eb8-6acf-457e-aba3-617903a57940.png">
 
 
 
