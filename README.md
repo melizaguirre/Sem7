@@ -54,7 +54,7 @@ Un programa de C++ diseñado para demostrar:
 
 ## read_y_write.cpp
 
-<img width="400" alt="code4" src="https://user-images.githubusercontent.com/92064578/188335999-a2a6209f-9faf-4ac0-b56d-e36fcdc376b6.png"
+<img width="400" alt="code4" src="https://user-images.githubusercontent.com/92064578/188335999-a2a6209f-9faf-4ac0-b56d-e36fcdc376b6.png">
 
 <img width="400" alt="salida4" src="https://user-images.githubusercontent.com/92064578/188336024-edc731ba-cce2-4372-84fe-f8f8e0d7375a.png">
 
