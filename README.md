@@ -83,8 +83,39 @@ Un programa de C++ diseñado para demostrar:
 
 <img width="400" alt="salida8" src="https://user-images.githubusercontent.com/92064578/188336315-65ab5eb8-6acf-457e-aba3-617903a57940.png">
 
+<img width="400" alt="code9" src="https://user-images.githubusercontent.com/92064578/188336431-ea9c5488-5114-466d-94a9-9f7a8b4a1074.png">
 
 
+<img width="400" alt="salida9" src="https://user-images.githubusercontent.com/92064578/188336405-56d13ee8-b77d-41f5-af63-4b671a661611.png">
+
+
+## scientific_y_fixed.cpp
+<img width="400" alt="code10" src="https://user-images.githubusercontent.com/92064578/188336481-0f36b78f-a9cc-4868-bb9e-1cdfe7128a7b.png">
+
+<img width="400" alt="salida10" src="https://user-images.githubusercontent.com/92064578/188336490-58014eb4-60fa-424a-8ef8-554dd82c829f.png">
+
+## ascii.cpp
+
+<img width="400" alt="code11" src="https://user-images.githubusercontent.com/92064578/188336518-8e618cff-0b09-40c3-b0fb-8d1d0e5bb2e7.png">
+
+<img width="400" alt="salida11" src="https://user-images.githubusercontent.com/92064578/188336535-e509dbc4-d7ce-4fc1-b71d-457fac5302c6.png">
+
+
+<img width="400" alt="salida11 1" src="https://user-images.githubusercontent.com/92064578/188336528-b8e3c41e-405e-4354-a4cd-fdffdfecaebd.png">
+
+<img width="400" alt="salida11 2" src="https://user-images.githubusercontent.com/92064578/188336532-6c1fdb07-8aab-48b4-aa24-0825c2f0b519.png">
+
+
+## Archivos de texto y binarios
+
+<img width="400" alt="code12" src="https://user-images.githubusercontent.com/92064578/188336557-4e051bb0-d0da-4cb3-a7d7-90bb30ff9950.png">
+
+<img width="400" alt="salida12" src="https://user-images.githubusercontent.com/92064578/188336579-63b2c6ce-a257-4bd4-85e7-887991a7ab9e.png">
+
+
+<img width="400" alt="code13" src="https://user-images.githubusercontent.com/92064578/188336593-5b1b07d7-91fc-4156-98a4-2e1b81a248a8.png">
+
+<img width="400" alt="salida13" src="https://user-images.githubusercontent.com/92064578/188336604-ac39d06e-2ce7-4f0d-b406-7d566eb95c42.png">
 
   
 
