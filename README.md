@@ -123,12 +123,18 @@ Un programa de C++ diseñado para demostrar:
 <img width="400" alt="Contactoh" src="https://user-images.githubusercontent.com/92064578/188368663-fe896476-5a36-4db6-8068-5d79b89cb57d.png">
 
 
+## Contacto.cpp
 <img width="400" alt="Contactocpp" src="https://user-images.githubusercontent.com/92064578/188368754-8596c952-883b-4878-bf63-7e5c54e36fc8.png">
 
+## acceso_aleatorio.h
 
 <img width="400" alt="acceso_aleatorioh" src="https://user-images.githubusercontent.com/92064578/188368843-188c6c62-aadd-47fb-b576-3ec6b198f7c4.png">
 
+## acceso_aleatorio.cpp
+
 <img width="400" alt="acceso_aleatoriocpp" src="https://user-images.githubusercontent.com/92064578/188368913-bb2d6437-a9b5-47d2-a7df-05cf8455f4c3.png">
+
+## main.cpp
 
 <img width="400" alt="main" src="https://user-images.githubusercontent.com/92064578/188368950-8250f119-f0c1-4434-8456-466ff922eb0e.png">
 
