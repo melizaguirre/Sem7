@@ -139,6 +139,7 @@ Un programa de C++ diseñado para demostrar:
 <img width="400" alt="main" src="https://user-images.githubusercontent.com/92064578/188368950-8250f119-f0c1-4434-8456-466ff922eb0e.png">
 
 
+<img width="500" alt="salidaMain" src="https://user-images.githubusercontent.com/92064578/188370308-dbbbb7ef-a021-447d-aaf4-bbf47dad4be4.png">
 
 
 
